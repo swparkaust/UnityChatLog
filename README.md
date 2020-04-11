@@ -2,6 +2,8 @@
 
 스크롤링 크레딧 효과가 있는 Unity 용 게임 내 로그. 채팅 메시지 및 플레이어 동작 출력에 유용함.
 
+![demo unitychatlog](https://github.com/swparkaust/UnityChatLog/raw/master/img/demo-unitychatlog.gif)
+
 ### 설치
 
 Unity 이외의 종속성은 필요하지 않습니다. 무슨 일이 생기면 알려주세요!
